@@ -20,6 +20,4 @@ Here is the output for the test images.
 ![SolidYellowLeft](test_images_output/final_solidYellowLeft.jpg)
 ![WhiteCarLaneSwitch](test_images_output/final_whiteCarLaneSwitch.jpg)
 
-Here is the output for the test videos.
-![solidWhiteRight](test_videos_output/solidWhiteRight.mp4)
-![solidYellowLeft](test_videos_output/solidYellowLeft.mp4)
+Output Videos can be found [here](https://github.com/UsmanIjaz/SDC_Basic_Lane_Detection/tree/master/test_videos_output)
